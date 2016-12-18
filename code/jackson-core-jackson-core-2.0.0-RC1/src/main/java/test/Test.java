@@ -1,4 +1,4 @@
-package test;
+锘縫ackage test;
 
 import java.io.File;
 import java.io.IOException;
@@ -23,9 +23,9 @@ public class Test
 			String fieldname = parser.getCurrentName();
 			if ("name".equals(fieldname))
 			{
-				//当前结点为name   
+				//褰撳墠缁撶偣涓簄ame   
 				parser.nextToken();
-				System.out.println(parser.getText()); // 输出 mkyong  
+				System.out.println(parser.getText()); // 杈撳嚭 mkyong  
 			}
 		}
 
