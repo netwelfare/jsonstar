@@ -1,5 +1,6 @@
 package com.jsonstar.core.io;
 
+import com.jsonstar.core.json.JsonEncoding;
 import com.jsonstar.core.util.BufferRecycler;
 import com.jsonstar.core.util.TextBuffer;
 

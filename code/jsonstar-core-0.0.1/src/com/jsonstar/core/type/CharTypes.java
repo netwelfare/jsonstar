@@ -1,4 +1,4 @@
-package com.fasterxml.jackson.core.io;
+package com.jsonstar.core.type;
 
 import java.util.Arrays;
 

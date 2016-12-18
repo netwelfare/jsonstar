@@ -1,4 +1,4 @@
-package com.jsonstar.core.io;
+package com.jsonstar.core.json;
 
 public enum JsonEncoding
 {
